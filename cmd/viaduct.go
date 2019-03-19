@@ -3,10 +3,10 @@ package main
 import (
 	"strings"
 
-	"github.com/kexun/viaduct/cmd/config"
-	"github.com/kexun/viaduct/pkg/conn"
-	"github.com/kexun/viaduct/pkg/mux"
 	"github.com/kubeedge/beehive/pkg/common/log"
+	"github.com/kubeedge/viaduct/cmd/config"
+	"github.com/kubeedge/viaduct/pkg/conn"
+	"github.com/kubeedge/viaduct/pkg/mux"
 )
 
 func main() {

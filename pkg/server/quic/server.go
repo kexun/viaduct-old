@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kexun/viaduct/pkg/conn"
-	quicconn "github.com/kexun/viaduct/pkg/conn/quic"
-	"github.com/kexun/viaduct/pkg/mux"
+	"github.com/kubeedge/viaduct/pkg/conn"
+	quicconn "github.com/kubeedge/viaduct/pkg/conn/quic"
+	"github.com/kubeedge/viaduct/pkg/mux"
 
 	"github.com/lucas-clemente/quic-go"
 )

@@ -4,8 +4,8 @@ import (
 	"crypto/tls"
 	"time"
 
-	"github.com/kexun/viaduct/pkg/conn"
-	quicconn "github.com/kexun/viaduct/pkg/conn/quic"
+	"github.com/kubeedge/viaduct/pkg/conn"
+	quicconn "github.com/kubeedge/viaduct/pkg/conn/quic"
 	"github.com/lucas-clemente/quic-go"
 )
 

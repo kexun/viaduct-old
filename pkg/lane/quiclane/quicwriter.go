@@ -3,7 +3,7 @@ package quiclane
 import (
 	"time"
 
-	"github.com/kexun/viaduct/pkg/lane"
+	"github.com/kubeedge/viaduct/pkg/lane"
 	"github.com/lucas-clemente/quic-go"
 
 	"beehive/pkg/core/model"

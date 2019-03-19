@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"beehive/pkg/core/model"
-	"github.com/kexun/viaduct/pkg/lane"
+	"github.com/kubeedge/viaduct/pkg/lane"
 
 	"github.com/lucas-clemente/quic-go"
 )

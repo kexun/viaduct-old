@@ -6,9 +6,9 @@ import (
 
 	"beehive/pkg/common/log"
 	"beehive/pkg/core/model"
-	"github.com/kexun/viaduct/pkg/conn"
-	"github.com/kexun/viaduct/pkg/lane/quiclane"
-	"github.com/kexun/viaduct/pkg/mux"
+	"github.com/kubeedge/viaduct/pkg/conn"
+	"github.com/kubeedge/viaduct/pkg/lane/quiclane"
+	"github.com/kubeedge/viaduct/pkg/mux"
 
 	"github.com/lucas-clemente/quic-go"
 )
