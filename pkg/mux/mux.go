@@ -1,7 +1,7 @@
 package mux
 
 import (
-	"beehive/pkg/core/model"
+	"github.com/kubeedge/beehive/pkg/core/model"
 )
 
 type HandlerFunc func(*MessageContainer, ResponseWriter)

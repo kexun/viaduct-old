@@ -3,7 +3,7 @@ package conn
 import (
 	"time"
 	
-	"beehive/pkg/core/model"
+	"github.com/kubeedge/beehive/pkg/core/model"
 )
 
 type Conn interface {
